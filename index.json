@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "accountsservice-snap",
+  "versions": [
+    {
+      "commit": "333550cf5186158a2a921bda9e6a0ed410cd41ff",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:31:23.988228+00:00"
+    }
+  ]
+}
