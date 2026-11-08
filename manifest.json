@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "canonical",
+  "repo": "accountsservice-snap",
+  "versions": [
+    {
+      "commit": "333550cf5186158a2a921bda9e6a0ed410cd41ff",
+      "parsed_at": "2026-11-08T18:28:15.835561+00:00",
+      "filetree": "filetree/333550cf5186158a2a921bda9e6a0ed410cd41ff.nq.gz",
+      "blobs": [
+        "blob/2c499bfdca780f4da5fd8d810e9de09342e6c438.nq.gz",
+        "blob/48a54a902798669a1caec6c650d2c23d421e28ae.nq.gz",
+        "blob/04927f1ab6d34da4516e40d9fc55593c41ca8a92.nq.gz",
+        "blob/dbb9ba3abb07bf44ff6add545c4c8a9724791088.nq.gz",
+        "blob/74459836dfd01fcf9f441c6b3c55ea963105d9fc.nq.gz",
+        "blob/573ed8b878d49b2efae686811fb8febb5c5de240.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
