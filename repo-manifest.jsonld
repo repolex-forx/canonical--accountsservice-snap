@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/accountsservice-snap/commit/333550cf5186158a2a921bda9e6a0ed410cd41ff",
       "git:hexsha": "333550cf5186158a2a921bda9e6a0ed410cd41ff",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/accountsservice-snap/commit/03edd1a0293c905e187e3369fd4783a886e024d0",
